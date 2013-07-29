@@ -1,8 +1,8 @@
-eggs
-milk
 cheese
 coffee
-sweets
+eggs
 googleplex
+milk
 more sweets
 more coffee
+sweets
