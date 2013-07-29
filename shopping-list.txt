@@ -1,7 +1,7 @@
-eggs
-milk
 cheese
 coffee
-sweets
+eggs
+milk
 more sweets
 more coffee
+sweets
