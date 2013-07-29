@@ -4,4 +4,3 @@ bread
 cheese
 coffee
 sweets
-squash
