@@ -1,6 +1,5 @@
 eggs
 milk
-bread
 cheese
 coffee
 sweets
